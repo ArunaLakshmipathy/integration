@@ -17,7 +17,7 @@ if(a>= 90)
 	System.out.println(" true");
 }
 }
-}
+
 int number=30;
 {
 
